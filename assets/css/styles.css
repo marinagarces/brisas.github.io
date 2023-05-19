@@ -1,0 +1,90 @@
+body {
+font-family: 'KoHo', sans-serif;
+}
+/*Estilo de Barra de Navegación*/
+.navbar {
+  background-color: #14c5e4; /* Color de fondo deseado */
+  width: auto;
+}
+/*Estilo de Logo*/
+.logo-image {
+  width: 70px;
+  height: 70px;
+}
+
+
+ /*Estilos de Imagen Carrousel*/
+ .carousel-image {
+  width: 700px;
+  height: 950px;
+ 
+ }
+
+ /*Estilo de Sección Escuela*/
+#Escuela {
+  color: rgb(0, 0, 0);
+  background-color: #F9FF33;
+  text-align: center;
+}
+#Escuela hr {
+  background-color: #23C7CE;
+  height: 1pX;
+}
+ /* Estilo de Botones */
+.btn-custom {
+  background-color: #14c5e4;
+  /* Otros estilos opcionales */
+  color: white; /* Cambiar el color del texto si es necesario */
+  border: none; /* Eliminar el borde si es necesario */
+}
+/*Estilo de sección Area Academica*/
+#AreaAcademica hr {
+  background-color: #23C7CE;
+  height: 1pX;
+}
+#AreaAcademica {
+  color: rgb(0, 0, 0);
+  background-color: #F9FF33;
+  }
+
+  .link-list {
+    list-style: none; /* Elimina las viñetas */
+    padding: 0;
+  }
+  
+  .link-list li {
+    margin-bottom: 10px; /* Añade espacio entre los elementos de la lista */
+  }
+
+/*Estilos de las Cards*/
+.card-deck {
+  color: black;
+}
+
+.imgcardacademy {
+  width: 250px;
+}
+
+/*Contacto*/
+
+#footer {
+  background-color: #14c5e4;
+  border-top: 25px solid #14c5e4;
+  padding-top: 20px;
+}
+ .contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-list li {
+  margin-bottom: 3px;
+}
+
+
+.imgcardacademy {
+  width: 160px;
+  height: 140px;
+  
+ 
+}
